@@ -26,5 +26,10 @@ img, picture, video, embed { max-width: 100%; }
 
 /* /End text aling */
 
+.container {
+   	max-width: 1128px;
+	margin: 0 auto;
+}
+
 /* Start the design responsive */
 /* /End the design responsive */
