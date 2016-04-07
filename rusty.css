@@ -19,11 +19,9 @@ html, body {
 img, picture, video, embed { max-width: 100%; }
 
 /* Start text aling */
-
 .txt-center { text-align: center; }
 .txt-right  { text-align: right; }
 .txt-left   { text-align: left; }
-
 /* /End text aling */
 
 .container {
@@ -32,4 +30,11 @@ img, picture, video, embed { max-width: 100%; }
 }
 
 /* Start the design responsive */
+@media screen and (max-width: 1128px) {}
+@media screen and (max-width: 768px) {}
+@media screen and (max-width: 718px) {}
+@media screen and (max-width: 640px) {}
+@media screen and (max-width: 520px) {}
+@media screen and (max-width: 400px) {}
+@media screen and (max-width: 360px) {}
 /* /End the design responsive */
