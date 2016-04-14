@@ -1,17 +1,17 @@
 
 # Rusty.css
 
-***Rusty.css is a simple and awesome library CSS3. :sparkles: :rocket: :dizzy:***
+##### Whats is Rusty.css?
 
-##### Example usage
-1.  Include the rusty.css in your <head>
-```html
-  <head>
-    <link rel="stylesheet" href="https://inploit.com/rusty.min.css" media="screen">
-  </head>
-````
+- Rusty.css is a simple and awesome library css3 to design responsive and fast development. :sparkles: :rocket: :dizzy:
 
-2.
+##### Why use Rusty.css?
+
+-
+
+##### Documentarion
+
+- View the documentation of Rusty.css [**here**](http://heitorgouvea.me/rsutycss) 
 
 ##### Bugs
 
