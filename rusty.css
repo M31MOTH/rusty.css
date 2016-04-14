@@ -29,6 +29,11 @@ img, picture, video, embed { max-width: 100%; }
 	margin: 0 auto;
 }
 
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Start the design responsive */
 @media screen and (max-width: 1128px) {}
 @media screen and (max-width: 768px) {}
