@@ -13,6 +13,12 @@
 
 - View the documentation of Rusty.css [**here**](http://heitorgouvea.me/rsutycss) 
 
+##### CDN
+```html
+  <head>
+    <link rel="stylesheet" href="https://inploit.com/rusty.min.css" screen="media">
+  </head>
+  ```
 ##### Bugs
 
 - Report bugs in my email: **hi@heitorgouvea.me**
