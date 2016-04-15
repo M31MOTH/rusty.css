@@ -7,7 +7,7 @@
 
 ##### Why use Rusty.css?
 
--
+- Using the rusty.css in your projects, you ern more speed of development, support, performance and etc.
 
 ##### Documentarion
 
