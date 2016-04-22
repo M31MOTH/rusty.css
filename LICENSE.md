@@ -1,6 +1,6 @@
                The Artistic License 2.0
 
-           Copyright (c) 2016 Heitor Gouvea
+           Copyright (c) 2016 Heitor Gouvea and João Victor T. Salgado
 
      Everyone is permitted to copy and distribute verbatim copies
       of this license document, but changing it is not allowed.
