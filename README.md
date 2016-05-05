@@ -3,7 +3,7 @@
 
 ##### Whats is Rusty.css?
 
-- Rusty.css is a simple and awesome library css3 to design responsive and fast development. :sparkles: :rocket: :dizzy:
+- Rusty.css is a simple and awesome micro-framework css3 to design responsive and fast development. :sparkles: :rocket: :dizzy:
 
 ##### Why use Rusty.css?
 
