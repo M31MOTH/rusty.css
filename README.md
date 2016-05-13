@@ -16,7 +16,7 @@
 ##### CDN
 ```html
   <head>
-    <link rel="stylesheet" href="https://inploit.com/rusty.min.css" screen="media">
+    <link rel="stylesheet" href="http://heitorgouvea.me/rusty.min.css" screen="media">
   </head>
   ```
 ##### Bugs
