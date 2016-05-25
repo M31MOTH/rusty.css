@@ -1,0 +1,17 @@
+
+{
+  "name": "Rusty.css",
+  "version": "1.0",
+  "homepage": "https://github.com/HeitorG/rusty.css",
+  "authors": [
+    "Heitor Gouvea <hi@heitorgouvea.me>"
+  ],
+  "description": " a simple and awesome library CSS3",
+  "keywords": [
+    "font"
+  ],
+  "license": "Artistic License 2.00",
+  "ignore": [
+    "**/.*"
+  ]
+}
