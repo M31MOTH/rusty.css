@@ -1,4 +1,3 @@
-
 # Rusty.css
 
 ##### Whats is Rusty.css?
@@ -11,7 +10,7 @@
 
 ##### Documentarion
 
-- View the documentation of Rusty.css [**here**](http://heitorgouvea.me/rsutycss) 
+- View the documentation of Rusty.css [**here**](http://heitorgouvea.me/rustycss/) 
 
 ##### CDN
 ```html
@@ -25,7 +24,7 @@
 
 ##### License
 
-- This work is licensed under [**Artistic License 2.0**](https://github.com/HeitorG/rusty.css/blob/master/LICENSE.md)
+- This work is licensed under [**MIT License**](https://github.com/HeitorG/rusty.css/blob/master/LICENSE.md)
 
 ##### Contribution
 

@@ -6,12 +6,9 @@
   "authors": [
     "Heitor Gouvea <hi@heitorgouvea.me>"
   ],
-  "description": " a simple and awesome library CSS3",
+  "description": "A simple and awesome library CSS3",
   "keywords": [
     "font"
   ],
-  "license": "Artistic License 2.0",
-  "ignore": [
-    "**/.*"
-  ]
+  "license": "Artistic License 2.0"
 }
