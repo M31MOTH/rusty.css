@@ -1,5 +1,8 @@
 # Rusty.css
 
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/rusty.css/blob/master/LICENSE.md)
+
+
 ##### Whats is Rusty.css?
 
 - Rusty.css is a simple and awesome micro-framework css3 to design responsive and fast development. :sparkles: :rocket: :dizzy:
