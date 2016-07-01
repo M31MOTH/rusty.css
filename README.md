@@ -27,7 +27,7 @@
 
 ##### License
 
-- This work is licensed under [**MIT License**](https://github.com/HeitorG/rusty.css/blob/master/LICENSE.md)
+- This work is licensed under [**MIT License**](https://github.com/GouveaHeitor/rusty.css/blob/master/LICENSE.md)
 
 ##### Contribution
 
