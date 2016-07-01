@@ -2,7 +2,7 @@
 {
   "name": "rusty.css",
   "version": "1.0",
-  "homepage": "https://github.com/HeitorG/rusty.css",
+  "homepage": "https://github.com/GouveaHeitor/rusty.css",
   "authors": [
     "Heitor Gouvea <hi@heitorgouvea.me>"
   ],
@@ -10,5 +10,5 @@
   "keywords": [
     "font"
   ],
-  "license": "Artistic License 2.0"
+  "license": "MIT License"
 }
