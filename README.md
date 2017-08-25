@@ -1,19 +1,19 @@
 # Rusty.css
 
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/rusty.css/blob/master/LICENSE.md)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/GouveaHeitor/rusty.css/blob/master/LICENSE.md)
 
 
-##### Whats is Rusty.css?
+##### Whats is?
 
-- Rusty.css is a simple and awesome micro-framework css3 to design responsive and fast development. :sparkles: :rocket: :dizzy:
+- Is a simple micro-framework css3 to create design responsive. :sparkles: :rocket: :dizzy:
 
-##### Why use Rusty.css?
+##### Why use?
 
 - Using the rusty.css in your projects, you ern more speed of development, support, performance and etc. :smile: :metal:
 
 ##### Documentarion
 
-- View the documentation of Rusty.css [**here**](http://heitorgouvea.me/rustycss/) 
+- View the documentation of Rusty.css [**here**](http://heitorgouvea.me/rustycss/)
 
 ##### CDN
 ```html
